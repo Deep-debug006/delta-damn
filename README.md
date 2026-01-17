@@ -1,2 +1,2 @@
 # delta-damn
-this is a new learning of mine
+this is a new learning of mine.
